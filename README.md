@@ -1,0 +1,2 @@
+# ParcialPracIntegradora
+Resolución Parcial
